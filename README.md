@@ -1,4 +1,4 @@
-#Hi there, I'm Farhan! 👋
+# Hi there, I'm Farhan! 👋.
 Welcome to my GitHub profile! I'm passionate about coding and always looking to improve my programming techniques. Whether it's building functional applications or exploring new technologies, I'm committed to continuous learning and development.
 
 🚀 **About Me**:
@@ -13,5 +13,5 @@ Welcome to my GitHub profile! I'm passionate about coding and always looking to 
 3- Concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms.
 
 🤝 **Let's Connect**:
-🌐 LinkedIn: linkedin.com/in/farhan-mushtaq-bab89b321
-📫 Email: meetfarhan10g@gmail.com
+🌐 LinkedIn: linkedin.com/in/farhan-mushtaq-bab89b321 .
+📫 Email: meetfarhan10g@gmail.com .
