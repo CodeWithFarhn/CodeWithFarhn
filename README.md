@@ -1,16 +1,17 @@
-## Hi there 👋
+#Hi there, I'm Farhan! 👋
+Welcome to my GitHub profile! I'm passionate about coding and always looking to improve my programming techniques. Whether it's building functional applications or exploring new technologies, I'm committed to continuous learning and development.
 
-<!--
-**CodeWithFarhn/CodeWithFarhn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**:
+🌱 Currently honing my skills in Java and C++.
+💡 Interested in software development, problem-solving, and creating efficient solutions.
+📚 Learning about Java GUI development and exploring design patterns.
+🎯 Goals: To contribute to open-source projects and build scalable applications.
 
-Here are some ideas to get you started:
+💻 **Skills**:
+1- Programming Languages: Java, C++
+2- Tools & Platforms: IntelliJ IDEA, NetBeans, VS Code
+3- Concepts: Object-Oriented Programming (OOP), Data Structures, Algorithms.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤝 **Let's Connect**:
+🌐 LinkedIn: linkedin.com/in/farhan-mushtaq-bab89b321
+📫 Email: meetfarhan10g@gmail.com
